@@ -16,8 +16,8 @@ import { demoManipulateDOM } from "./manipulateDOM.js";
 // demoArray();
 // demoDestructuring()
 // demoClasses();
-demoFunctions();
-//demoSpreadOperator();
+//demoFunctions();
+demoSpreadOperator();
 //demoControlStructures();
 //demoManipulateDOM();
 
